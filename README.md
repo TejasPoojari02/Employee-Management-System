@@ -19,14 +19,14 @@ This is a simple Employee Management System implemented in Python. It allows you
     ```
 2. Navigate to the project directory:
     ```bash
-    cd employee-management-system
+    cd EMS
     ```
 
 ## Usage
 
 1. Run the script:
     ```bash
-    python employee_management_system.py
+    python EMS.py
     ```
 2. Follow the on-screen prompts to manage employee records.
 
@@ -70,7 +70,8 @@ Here's an example of how to use the system:
 
 ## Code Structure
 
-- `employee_management_system.py`: Main script file containing the logic for the Employee Management System.
+- `EMS.py`: Main script file containing the logic for the Employee Management System.
+- 'searchengine.py': Script file containing the search engine and logic for the Employee Management System
 
 ## Contributing
 
