@@ -15,7 +15,7 @@ This is a simple Employee Management System implemented in Python. It allows you
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/employee-management-system.git
+    git clone https://github.com/TejasPoojari02/employee-management-system.git
     ```
 2. Navigate to the project directory:
     ```bash
